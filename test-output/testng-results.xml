@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="5" passed="5" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-06-08T23:55:24 IST" name="Suite" finished-at="2022-06-08T23:55:24 IST" duration-ms="195">
+    <groups>
+      <group name="Smoke">
+        <method signature="BasicTestNg.CANCEL()[pri:0, instance:test.BasicTestNg@49049a04]" name="CANCEL" class="test.BasicTestNg"/>
+      </group> <!-- Smoke -->
+    </groups>
+    <test started-at="2022-06-08T23:55:24 IST" name="Test" finished-at="2022-06-08T23:55:24 IST" duration-ms="195">
+      <class name="test.BasicTestNg">
+        <test-method is-config="true" signature="CANCE1L()[pri:0, instance:test.BasicTestNg@49049a04]" started-at="2022-06-08T23:55:24 IST" name="CANCE1L" finished-at="2022-06-08T23:55:24 IST" duration-ms="13" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- CANCE1L -->
+        <test-method is-config="true" signature="prere()[pri:0, instance:test.BasicTestNg@49049a04]" started-at="2022-06-08T23:55:24 IST" name="prere" finished-at="2022-06-08T23:55:24 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- prere -->
+        <test-method signature="CANCEL()[pri:0, instance:test.BasicTestNg@49049a04]" started-at="2022-06-08T23:55:24 IST" name="CANCEL" finished-at="2022-06-08T23:55:24 IST" duration-ms="9" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- CANCEL -->
+        <test-method signature="HellpWord1()[pri:0, instance:test.BasicTestNg@49049a04]" started-at="2022-06-08T23:55:24 IST" name="HellpWord1" finished-at="2022-06-08T23:55:24 IST" duration-ms="2" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- HellpWord1 -->
+        <test-method signature="method(java.lang.String)[pri:0, instance:test.BasicTestNg@49049a04]" started-at="2022-06-08T23:55:24 IST" name="method" finished-at="2022-06-08T23:55:24 IST" duration-ms="3" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[google]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- method -->
+        <test-method signature="HellpWord2()[pri:1, instance:test.BasicTestNg@49049a04]" started-at="2022-06-08T23:55:24 IST" name="HellpWord2" finished-at="2022-06-08T23:55:24 IST" duration-ms="2" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- HellpWord2 -->
+        <test-method signature="HellpWord()[pri:2, instance:test.BasicTestNg@49049a04]" started-at="2022-06-08T23:55:24 IST" name="HellpWord" finished-at="2022-06-08T23:55:24 IST" duration-ms="2" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- HellpWord -->
+        <test-method is-config="true" signature="After()[pri:0, instance:test.BasicTestNg@49049a04]" started-at="2022-06-08T23:55:24 IST" name="After" finished-at="2022-06-08T23:55:24 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- After -->
+        <test-method is-config="true" signature="CANCE1L1()[pri:0, instance:test.BasicTestNg@49049a04]" started-at="2022-06-08T23:55:24 IST" name="CANCE1L1" finished-at="2022-06-08T23:55:24 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- CANCE1L1 -->
+      </class> <!-- test.BasicTestNg -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
